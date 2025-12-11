@@ -1,0 +1,9 @@
+/.idea
+test2.ipynb
+ReadPickle.py
+artifact_mask.png
+Omnipose.py
+test.ipynb
+*.png
+*.tif
+*.tiff
